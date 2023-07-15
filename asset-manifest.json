@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/robotswhofeellove.github.io/profile/static/css/main.80e8e3ee.css",
-    "main.js": "/robotswhofeellove.github.io/profile/static/js/main.08d09685.js",
-    "static/js/787.1ed0c42c.chunk.js": "/robotswhofeellove.github.io/profile/static/js/787.1ed0c42c.chunk.js",
-    "static/media/ticktock.png": "/robotswhofeellove.github.io/profile/static/media/ticktock.1e5214ac5962fb6ebdd6.png",
-    "static/media/IMG_4121.jpeg": "/robotswhofeellove.github.io/profile/static/media/IMG_4121.3e5a24ad9aeaa52f298f.jpeg",
-    "static/media/arrestedmemory.png": "/robotswhofeellove.github.io/profile/static/media/arrestedmemory.609b07593b521012beb9.png",
-    "static/media/quixote2.jpeg": "/robotswhofeellove.github.io/profile/static/media/quixote2.5424cc77dd4072402bd8.jpeg",
-    "static/media/battleship.png": "/robotswhofeellove.github.io/profile/static/media/battleship.7809e2fb1345cdb1aa5f.png",
-    "static/media/github.svg": "/robotswhofeellove.github.io/profile/static/media/github.89fd1721abc4574fc4245d8f1694ee41.svg",
-    "index.html": "/robotswhofeellove.github.io/profile/index.html",
-    "static/media/linkedin.svg": "/robotswhofeellove.github.io/profile/static/media/linkedin.db0313dcee38acf7a2d405d0590a0db3.svg",
-    "main.80e8e3ee.css.map": "/robotswhofeellove.github.io/profile/static/css/main.80e8e3ee.css.map",
-    "main.08d09685.js.map": "/robotswhofeellove.github.io/profile/static/js/main.08d09685.js.map",
-    "787.1ed0c42c.chunk.js.map": "/robotswhofeellove.github.io/profile/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/profile/static/css/main.80e8e3ee.css",
+    "main.js": "/profile/static/js/main.d5d06ff5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/profile/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ticktock.png": "/profile/static/media/ticktock.1e5214ac5962fb6ebdd6.png",
+    "static/media/IMG_4121.jpeg": "/profile/static/media/IMG_4121.3e5a24ad9aeaa52f298f.jpeg",
+    "static/media/arrestedmemory.png": "/profile/static/media/arrestedmemory.609b07593b521012beb9.png",
+    "static/media/quixote2.jpeg": "/profile/static/media/quixote2.5424cc77dd4072402bd8.jpeg",
+    "static/media/battleship.png": "/profile/static/media/battleship.7809e2fb1345cdb1aa5f.png",
+    "static/media/github.svg": "/profile/static/media/github.89fd1721abc4574fc4245d8f1694ee41.svg",
+    "index.html": "/profile/index.html",
+    "static/media/linkedin.svg": "/profile/static/media/linkedin.db0313dcee38acf7a2d405d0590a0db3.svg",
+    "main.80e8e3ee.css.map": "/profile/static/css/main.80e8e3ee.css.map",
+    "main.d5d06ff5.js.map": "/profile/static/js/main.d5d06ff5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/profile/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80e8e3ee.css",
-    "static/js/main.08d09685.js"
+    "static/js/main.d5d06ff5.js"
   ]
 }
